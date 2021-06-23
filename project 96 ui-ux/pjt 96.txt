@@ -1,0 +1,163 @@
+The Project we are to work  is called
+FUNDME
+the problem
+Parents nowadays finds it difficult to pay their children school fees and even some children do not have decent uniform or bags or books and some do not have seats,
+The solution
+it is possible to build an app where I can pick a student to fund, to provide all or some of the things they lack.
+
+1.Landing page
+
+2.Fund-raising page:
+A page to promote your fundraiser and encourage others to donate. 
+-showcases your main fundraiser image,
+-your fundraiser title, 
+the amount you’ve raised
+—and most importantly? It contains an active link to your 
+fundraiser that takes people directly to your donation page.
+
+3.
+ 
+
+
+
+
+
+
+
+
+Based on the 3 Users we have:
+1. parents  (benefactors)
+2. admin (company using the app)
+3. donors- individual/organisation
+
+
+
+The users on the platform should have different privileges based on the roles.
+
+General role for all users
+NOTE: Admin does not sign in (will be manually added/hard coded,admin will have details they can register-with)
+1. parents/Donors can register/sign in.
+2. Admin/parents/Donors can login in.
+3. Admin/parents/Donors can retrieve all Donation list
+4. Admin/parents/Donors can retrieve all requirement list to qualify for donation.
+
+
+////////////////
+What list of things are we donating:
+1.Bags
+2.Shoes
+3.Uniform
+4.School fees
+5.Books
+6.Seats
+7.Money
+
+What methods are we using to get the donations:
+1.Physical donations
+2.Cash donations
+
+How do we address the different challenges associated with the differnt methods of donations: 
+1.Physical donations
+-location of drop off
+-verifying items of donations
+
+2.Cash donations
+-bank transfer
+-card transfer
+-cash donation
+
+
+///////////////////
+### General role & routes for any user
+NOTE:Any user can sign in except Admin (has already been added manually/hard coded) 
+1. Any user Can sign in/register as a parent. - (/api/parent/register) POST
+2. Any user Can sign in/register as a donor. - (/api/donor/register) POST
+
+3. Any user can login in as admin   - /api/auth/adminAuth,   POST
+4. Any user can login in as parent -  /api/parentAuth  POST
+5. Any user can login in as donor - /api/donorAuth POST
+
+6. Any user can get a item in a donation-list by id. -(api/donation-list/:donation-listId/:itemId) GET
+7. Any user can get all items by donation-list. -(api/items?donation-list=:donation-list) GET
+8. Any user can search for items by name, sorted alphabetically in ascending order. -(api/items?name=:name) POST
+9. Admin and parents can search for donors by firstname, sorted in alphabetical asc. order. -(api/donors?firstname=:firstName) POST
+10. Admin and parents can search for donors by ID-(api/donors?ID=:ID) POST
+
+
+
+////////////////
+Admin User Roles
+3. Any user can login in as admin   - /api/auth/adminAuth,   POST (as above)
+1. Can create/put an item under donation-list   (api/item) POST
+2. can get a item (api/items/:itemId) GET
+3. can get all items in a donation-list (by id) (api/items/:itemId) GET
+4. can update a item  in a donation-list (by id) (api/items/:itemId) PUT 
+5. can delete a item  in a donation-list (by id)(api/items/:itemId) DELETE
+
+6. can get a item (api/items) (by name) GET
+7. can get all items in a donation-list (by name) (api/items) GET
+8. can update item in a donation-list (by name) (api/item) PUT
+9. can delete item in a donation-list (by name) (api/item) DELETE
+
+
+10. Can get all donors (api/donors) GET
+11. can get a donor (api/donor/:userId) GET
+12. can deactivate a donor (api/donor/:userId) PUT
+13. can sign up as a donor (api/donor/:userId) PUT {isdonor: true)
+
+14. can get a parent (api/parent/:userId) GET
+15. Can get all parent (api/parents) GET
+16. can deactivate a parent (api/parent/:userId) PUT
+17. can register/sign up a parent (api/parent/:userId) PUT {isdonor: true)
+
+
+///////////
+parents User Roles
+1. can sign up (/api/register/parent) POST (as above)
+4. can login in as parent -  /api/parentAuth  POST  (as above)
+2. Can see all item in a donation-list (/api/donors/) GET
+3. Can book items (api/item/book) POST ????
+
+///////////
+donor User Roles
+2. can sign in/register as a donor. - (/api/donor/register) POST  (as above)
+5. Any user can login in as donor - /api/donorAuth POST  (as above)
+1. Registers to take a item in a donation-list (api/donation-list/:donation-listId/:itemId) POST ???
+2. Can see all items they registered to take (api/items) GET  ???
+3. Can update a registed item (api/items/:itemId) PUT  ???
+4. donors can delete a registered item (api/items/:itemId) DELETE  ???
+
+
+MODELS
+donation-list Model (parent to 'item')
+- name
+- description
+
+
+item Model
+- itemName e.g bag, book, uniform
+- price
+- user (relationship)
+- donation-list (relationship)
+
+
+User Model
+- First Name
+- Last Name
+- email
+- password
+- Role: admin, parent, donor 
+- isAdmin
+- createdAt
+- updatedAt
+
+PAYMENT Model
+
+
+///////NOT APPLY
+admin=admin, 
+student=parent, 
+tutor=donor, 
+subject=item,
+item=item, 
+donation-list=donation-list

@@ -1,0 +1,293 @@
+Task 1 - design a simple profile page using Figma
+
+Task 2- You are to download the mobile apps Evernote and Google Keep. They are primarily note-taking apps.
+Write a new note with each app and save it. Make a copy of this template and record your observation using the guide provided therein.
+Submit‌ the Google Docs link below.
+
+Task 3.1 Find the Color - Check Task
+Task 3.2. Knowledge Test -  Check Tasks
+Task 3.3. Fix the Typo! - Check Tasks
+Task 3.4: Compare the designs. See Tasks
+
+
+ USER RESEARCH AND DESIGN PROCESS  
+ GENERAL SLIDE  https://docs.google.com/presentation/d/1i-wyi6-mmypRZi5zNRfeEQltZQix3hiVQA2FQpl05aM/edit?usp=sharing
+
+A. User Research module
+B. Design Process 
+      -Empathy Stage
+      -Define Stage
+      -Ideate Stage
+      -Prototype Stage I
+      -Prototype Stage II
+      -Test Stage
+
+
+A. USER RESEARCH 
+Research module
+Objective- To apply the lessons learnt from the Research module to develop an interview script.
+         https://medium.com/sketch-app-sources/how-to-create-a-user-interview-script-f0ee6ffd62b6
+         https://www.nngroup.com/articles/user-interviews/
+         https://docs.google.com/document/d/1tMfUzbiZKsCw5W55uX72P8x9UP7c2OmM/edit
+
+
+
+B. DESIGN PROCESS
+ Design Process Stage One- Empathy stage 
+  Reading
+ https://docs.google.com/presentation/d/1BI56mvy7sLMnHC6qNU5DySg6DDzCxA5h502pxvTPj80/edit?usp=sharing
+
+        https://uxdesign.cc/introduction-to-empathy-maps-56554b80872d?gi=bc6b63af8f24
+
+ 
+Design Process Stage Two - Define stage
+ Reading 
+ https://docs.google.com/presentation/d/1kzBG0T-J0MEtI1qtD40qbMUzSfLj0n5NWP6zH7zq6bU/edit?usp=sharing
+
+
+
+Design Process Stage Three  - Ideate stage/The Design Thinking
+   Reading  
+   https://docs.google.com/presentation/d/1FLl11CT5QFUIlAIbwUd4iMbp5Kr4y2x9dClmzolA00U/edit?usp=sharing
+    Video - Creative Thinking
+
+
+Design Process Stage Four -Prototype Stage I (low-fidelity design)
+      Reading 
+      https://docs.google.com/presentation/d/1AYrshNGyEtePxaea4Od3FHGveLZuRD3kREnfetxW1zE/edit?usp=sharing
+
+
+Design Process Stage Six -Prototype Stage II  (high-fidelity design) 
+      Reading 
+       https://docs.google.com/presentation/d/1DNC4XtEReg4G-f2R5XgxM5Mcyoai5e7qu4RPCpPVc58/edit?usp=sharing
+
+      The following are the content of this course. Go through the readings. They've been linked to their respective external sites.
+      https://drive.google.com/drive/folders/1L9D5Y-iCflR1IiYeaN-4Xgtoil7XSB4a
+      Video - Paper Prototype demo  https://youtu.be/s21Iy1X7ioA
+      Video - Low-Fidelity Prototype https://youtu.be/qYmD-7O9tyQ
+      Video - High-Fidelity Prototype  https://youtu.be/FTFaQWZBqQ8
+      Video - Figma Tutorial: Prototyping https://youtu.be/-sAAa-CCOcg
+      Reading - 10 Usability Heuristics with examples  https://blog.prototypr.io/10-usability-heuristics-with-examples-4a81ada920c
+      Reading - UX Laws with practical examples https://medium.com/swlh/ux-laws-with-practical-examples-c418b4738d20
+
+
+Design Process Stage Seven -Test Stage - (Usability Testing)
+    Reading 
+    https://docs.google.com/presentation/d/1LVC-T4Ez8g5gUv_COa4bOYa4Z0kmVeNzMIVuFHVC3Y4/edit#slide=id.p
+
+    At this stage you test your design with potential users using A‌ ‌pitch‌ ‌deck‌ ‌(about‌ ‌10‌ ‌slides )‌
+    The following are the content of this course. Go through the readings. They've been linked to their respective external sites.
+    Video - Usability Test Demo  https://youtu.be/1UCDUOB_aS8
+  
+
+
+
+///////////TASK 1 -User reasearch task
+Project Brief
+World Citizen is a humanitarian organisation with a vision to help people who are suffering and 
+provide them with some needed supplies .
+After  a detailed analysis of the competitive landscape, World Citizen founders David Oluseyi and
+Lisa Everdeen have decided to create an online clothes donation platform across your continent. 
+Their goal is that anyone anywhere in your continent can be able to donate clothes easily.
+
+You are being considered to work on the design before a decision is made, they would like to see your interview script/questions.
+ You are required to submit the interview script using this template(see interview-script folder) by 11.59pm April 6, 2021 
+
+SOLUTION: User reasearch task 
+      -make a copy of the template-slides & fill it 
+      -Fill in your interview questions on the template-slide 
+      -interview questions with Major Categories and sub-Categories questions
+
+         
+
+
+//////////////////TASK 2-Empathy stage task
+Following the submission of your interview notes, you are to develop the following:
+1. Derive A combined empathy map for all your interview scripts. You should work on a Miro canvas as described in the lesson.
+2. Identify the Pain points & list them
+create notes,empathy map & painpoints on Miro and do a screenshots or frame/copy to export as png & patse them on google
+Create a slide presentation showing the 2 deliverables above.
+Submit‌ a link of the google slides presentation as a "Text reply " by 11.59pm saturday, Apirl 10 2021 
+-you can also submit the Miro link
+
+SOLUTION: 
+        - create a mirabod on mira.Com
+        - make notes from interviews scripts/questions you got from  people you interviwed i.e interview notes
+        - create sticky notes
+        - create the empathy map-think,feel,say,do
+        - copy the empathy map
+        - click ...& create a frame for the sticky notes
+        - click ... again & export as small image
+
+
+/////////////////TASK 3 Empathy stage task
+      TASK 3A  You are to create pain points
+
+   TASK 3A solution
+       i-They don't have appropriate donation avenues.
+          *Advertisement by Admin could let more potential users become aware of the donation app
+          *Rewards programs for users to invite and bring in new people
+          *Invite family and friends feature
+          *pick up options from the organization
+       ii-They dread sorting out clothes for donation.
+          *Collection and sorting out locations, within mayor cites, which could be located by users using a map within the app
+       iii-Loves donating, but always gets too attached with their clothes.
+          *The person can provide monetary incentive to buy clothes for the beneficiary instead
+ 
+    TASK 3B You are to create persona
+         -this persona is for different type of users-category e.g 
+         sex:male, female, 
+         religion:muslim, xtaian, 
+         profession:doctors,lawyers,bankers, enterpreneurs,market women 
+         age range: teenager,youth,adult
+         region: local, international
+
+   TASK 3B  solution
+        - put it on google slides and submit url or submit mirabod link
+   TASK 3C -OPPORTONITY identify opportunity in your note which are extra features your participant might want
+
+
+
+ 
+////////////// Define stage
+Task 4.
+      https://docs.google.com/document/d/1LlvHVQ3X3tJhVxjUIZMVX9i0cMIv6wntilBNZB7AO1k/edit?usp=sharing
+
+Deliverables
+Following the submission of your Empathy map and Pain points you have been asked to work on the following:
+1.Derive a list of well-articulated ideas from the pain points identified
+2.Derive a list of  actors and ideas identified
+3.Derive a priotization grid for each actor.
+Submit‌ the Google slide presentation showing the deliverables or your Miro link by 11.59pm on Tuesday Apirl 27, 2021
+Go to 'Tasks' and click on Design Task 5.1 to submit a URL to your presentation
+
+
+Design Task 5
+      https://docs.google.com/document/d/1JyMiB-aecxuISACjP6FUM2YYYz-fFNBowxIvG6Yr2ok/edit?usp=sharing
+
+Deliverables
+Following the submission of your Empathy map and Pain points you have been asked to work on the following:
+1.Derive Your Feature List - some wow features are expeced if they don't meet your complexity versus impact criteria. 
+Find a way to develop a simplify version of the wow feature.
+2.Derive A user-flow diagram for your solutions
+3.Derive A comprehensive User journey map for your solutions
+4.Derive A comprehensive Sketch of your proposed solutions 
+    -using paper& pen 
+    - basmastiq
+NOTE:Due to the sketches it will be advisable to screenshot & paste on a google slide presentation
+However, you can paste the images of your sketches into your Miro board and share the link
+
+
+
+////////////////////Ideate stage/The Design Thinking
+Design Week 6: The Design Thinking Process III
+Posted: Mon 03, May 2021
+
+By: Charles Dim
+*Please read carefully*
+In our design course for Week 5, we saw how to come up with ideas to solve our potential users' pain points and how to prioritise these ideas. We also mapped out user journeys, flows and sketches to give us a clear idea of our prototype process. Well done!
+For this week, we will be talking about the High Fidelity prototypes. You'll learn about elements that make a good hi-fi prototype, Native UI guidelines, Usability laws, and heuristics.
+By the end of this course, you'll be able to create a hi-fi design for your online platform.
+
+Design Task 6
+Design Process Task Six  https://docs.google.com/document/d/1wCnkHDpc2yEj48D6IYgTOJLtDM1CuaYcc_SCePR83tg/edit?usp=sharing
+Prerequisite
+Before attempting this task, you must have completed the following modules: 
+Design Process and User Research module
+Empathy Stage
+Define Stage
+Ideate Stage
+   -User's journeys map   (u can use this for during testing stage too)
+   -Task flow: 
+   -Prototype Stage I -low-fidelity design
+   -Prototype Stage II  -high-fidelity design
+   
+Objective
+To apply the lessons learnt from the modules to create a low-fidelity and high-fidelity design.
+Project Brief
+World Citizen is a humanitarian organisation with a vision to help people who are suffering and provide them with some needed supplies .
+After  a detailed analysis of the competitive landscape, World Citizen founders David Oluseyi and Lisa Everdeen have decided to create an online clothes donation platform across your continent. Their goal is that anyone anywhere in your continent can be able to donate clothes easily.
+
+Deliverables
+Following the submission of your sketches, David and Lisa has asked you to work on the following:
+1. A low-fidelity prototype
+2. A high-fidelity prototype
+*****right click on figma->select browse icon->select iconify
+●Submit‌ ‌a Figma link showing the deliverables in two separate pages by‌ ‌11:59 ‌pm‌ ‌on‌ Monday,‌ May 17 ‌2021.‌ ‌ ‌
+ ‌P.S. Feel free to look at similar donation apps or websites for inspiration, as the case may be. Also check Dribbble or Behance.
+Go to “Tasks” and click on Design Task 6.1 to submit a URL to your presentation.
+ 
+ 
+
+Have fun & Good luck!
+
+//////////////////////////////////////
+Design Week 7: The Design Thinking Process IV
+Posted: Thu 20, May 2021
+
+By: Charles Dim
+
+*Please read carefully*
+We've come to the last stage of the design thinking process. We've gone from empathizing to defining pain points and coming up with ideas to solve those pain points. 
+We've also seen how to make prototypes and tools involved in all these processes. Well done! You've worked hard.
+For this week, we will be talking about the Testing phase. You'll learn about usability testing, its types, methods and tools used in this phase.
+By the end of this course, you'll be able to prepare to conduct usability tests and know what to look out for during the process.
+ Design Task 7.1 
+ Design Process Task Seven https://docs.google.com/document/d/1xwUn0RlyKkI-NhyqDXL9bpiCk1U1MdasaWSuCJ49coU/edit?usp=sharing
+
+Prerequisite
+Before attempting this task, you must have completed the following modules: 
+Design Process and User Research module
+Empathy Stage
+Define Stage
+Ideate Stage
+Prototype Stage I
+Prototype Stage II
+Test Stage
+ 
+Objective
+To apply the lessons learnt from the modules to create a design pitch deck.
+ 
+Project Brief
+World Citizen is a humanitarian organization with a vision to help people who are suffering and provide them with some needed supplies.
+ 
+After a detailed analysis of the competitive landscape, World Citizen founders David Oluseyi and Lisa Everdeen have decided to create an online clothes 
+donation platform across your continent. Their goal is that anyone anywhere in your continent can be able to donate clothes easily.
+ 
+ 
+Deliverables
+Following the submission of your Hi-Fi Prototype, David and Lisa would like you to test your design with 5 potential users.
+ Your final submission should be:
+1. A‌ ‌pitch‌ ‌deck‌ ‌(about‌ ‌10‌ ‌slides )‌ ‌for‌ ‌the‌ ‌design‌ ‌job,‌ ‌use‌ ‌as‌ ‌much‌ ‌information‌ ‌as‌ ‌you‌ ‌can‌ from‌ ‌the‌ ‌previous‌ ‌weeks’‌ ‌work.‌
+ ‌It‌ ‌would‌ ‌be‌ ‌nice‌ ‌to‌ ‌see:‌ ‌ ‌
+ 
+a.   Justification‌ ‌for‌ ‌your‌ ‌design‌ ‌and‌ ‌why‌ ‌you‌ ‌should‌ ‌be‌ ‌awarded‌ ‌the‌ ‌contract‌ ‌
+b.   The‌ ‌persona‌ ‌of‌ ‌your‌ ‌users
+c.   Some‌ ‌quotes‌ ‌describing‌ ‌the‌ ‌pain‌ ‌points‌ ‌you‌ ‌wanted‌ ‌to‌ ‌solve.‌ ‌
+d.   An‌ ‌excerpt‌ ‌of‌ ‌your‌ ‌empathy‌ ‌map‌ ‌
+e.   The‌ ‌actors‌ ‌identified‌ ‌and‌ ‌the‌ ‌impact-complexity‌ ‌matrix.‌ ‌
+f.   Test‌ ‌results‌ ‌of‌ ‌your‌ ‌hi-fidelity‌ ‌prototype‌ ‌
+g.   A‌ ‌link‌ ‌to‌ ‌your‌ Dribbb‌le or Behance profile‌ ‌showing‌ ‌your‌ ‌hi-fidelity‌ ‌prototype.‌ ‌
+h.   Any other deliverable ‌that‌ ‌will‌ ‌help‌ ‌you‌ ‌make‌ ‌a‌ ‌strong‌ ‌case.
+ 
+Go to “Tasks” and click on Design Task 7.1 to submit a URL to your presentation. 
+● Submit‌ ‌the‌ presentation link showing the deliverables by‌ ‌11:59 ‌pm‌ ‌on‌ Sunday,‌ May 27, ‌2021.‌ ‌ ‌
+
+Have fun & Good luck!
+
+/////////////////
+RESOURCES
+https://bookmarks.design/
+https://designnotes.co/
+
+
+///////////////
+Here are some books you can read at your time:
+https://1lib.us/s/?q=don%27t+make+me+think
+https://1lib.us/s/?q=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman
+https://1lib.us/s/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman
+https://1lib.us/s/100%20Things%20Every%20Designer%20Needs%20to%20Know%20About%20People%20by%20Susan%20Weinschenk
+https://1lib.us/s/Universal%20Principles%20of%20Design%20by%20William%20Lidwell
+https://1lib.us/s/Steal%20Like%20an%20Artist%20by%20Austin%20Kleon
+https://1lib.us/s/?q=Keep+Going%3A+10+Ways+to+Stay+Creative+in+Good+Times+and+Bad+by+Austin+Kleon
+
